@@ -96,7 +96,6 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Vanguard Control";
-            this.TopMost = true;
             this.ResumeLayout(false);
 
         }
